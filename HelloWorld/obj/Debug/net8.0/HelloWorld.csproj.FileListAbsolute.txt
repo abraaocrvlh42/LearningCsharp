@@ -1,0 +1,14 @@
+/home/coder/LearningCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/coder/LearningCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/coder/LearningCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/coder/LearningCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/coder/LearningCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/coder/LearningCSharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
