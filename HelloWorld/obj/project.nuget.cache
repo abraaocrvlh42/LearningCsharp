@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qs29sg5LNG5dsq9KuAMdCD497I9XldFIRfJgyy1pi0UCQDlHQ6q/on9kSxp+61AMskjmyKkamLQl1V28wKp7hA==",
+  "dgSpecHash": "X1ZLr0euqYz/qX9N13r8Mh5S+bGTtKy4vmKfn5oZMGdD4QeKRBSqjHBAfvni4gr2Dqz5L+tuM//DyyyJqlLLqA==",
   "success": true,
-  "projectFilePath": "/home/coder/LearningCSharp/HelloWorld/HelloWorld.csproj",
-  "expectedPackageFiles": [
-    "/home/coder/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\coder\\LearningCsharp\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
