@@ -1,0 +1,15 @@
+C:\Users\coder\LearningCsharp\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\coder\LearningCsharp\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\coder\LearningCsharp\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\coder\LearningCsharp\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\coder\LearningCsharp\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\coder\LearningCsharp\Arrays\obj\Debug\net8.0\ref\Arrays.dll
