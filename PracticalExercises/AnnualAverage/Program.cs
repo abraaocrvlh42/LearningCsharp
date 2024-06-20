@@ -5,8 +5,6 @@ class Program
 {
     static void Main()
     {
-        // Suponha que este vetor seja carregado com os valores de faturamento diário.
-        // Dias sem faturamento (finais de semana e feriados) têm valor 0.
         double[] faturamentoDiario = new double[]
         {
             // Exemplo de valores de faturamento
